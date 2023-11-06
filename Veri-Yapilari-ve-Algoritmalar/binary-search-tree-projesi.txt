@@ -1,0 +1,10 @@
+                 
+                  7              --> Dizinin ilk elemanı olan 7 kök olarak seçildi.
+                /   \            
+               5     8           --> Sırada bulunan 5, 7'den küçük bir sayı o yüzden sol tarafa bağlandı. Dizide 7'den büyük olarak ilk gelen  
+              / \     \              sayı olan 8 ise sağ tarafa bağlandı.
+             1   6     9         --> Sırada bulunan 1, 7'den küçük olduğu için sol tarafa yöneldi. Solda 5 olduğu için ve 5'ten de küçük olduğu
+            / \                      için 1, 5'in soluna bağlandı. 6 ise 7'den küçük 5'ten büyük diye 5'in sağına geldi. 9 ise 8'den büyük.
+           0   3                 --> Sırada bulunan 0, yine aynı şekilde 7'den 5'ten ve 1'den küçük. Bu yüzden 1'in solundan bağlandı. 3 ise 1'den
+              / \                    büyük olduğu için sağına eklendi.
+             2   4               --> Sırasıyla 2 ve 4 sayıları da ağaçta yerini aldı.
